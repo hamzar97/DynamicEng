@@ -1,0 +1,86 @@
+c:\users\eg\documents\visual studio 2013\Projects\CMS\CMS\bin\Debug\CMS.exe.config
+c:\users\eg\documents\visual studio 2013\Projects\CMS\CMS\bin\Debug\CMS.exe
+c:\users\eg\documents\visual studio 2013\Projects\CMS\CMS\bin\Debug\CMS.pdb
+c:\users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+c:\users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Properties.Resources.resources
+c:\users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.csproj.GenerateResource.Cache
+c:\users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.exe
+c:\users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.pdb
+c:\users\eg\documents\visual studio 2013\Projects\CMS\CMS\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Budget_Delete.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Budget_New.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Budget_Update.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Budget_View.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Construction_Task_Delete.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Construction_Task_New.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Construction_Task_Update.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Construction_Task_View.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Main.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Material_Delete.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Material_New.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Material_Update.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Material_View.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Payment_Delete.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Payment_New.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Payment_Update.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Payment_View.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Project_Delete.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Project_New.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Project_Update.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Project_View.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Purchase_Delete.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Purchase_New.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Purchase_Update.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Purchase_View.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Purchase.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Report.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.About.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Dashboard.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Project.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Budget.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Material.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Form7.resources
+c:\Users\eg\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.Payment.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\bin\Debug\CMS.exe.config
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\bin\Debug\CMS.exe
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\bin\Debug\CMS.pdb
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Budget_Delete.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Budget_New.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Budget_Update.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Budget_View.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Construction_Task_Delete.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Construction_Task_New.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Construction_Task_Update.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Construction_Task_View.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Main.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Material_Delete.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Material_New.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Material_Update.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Material_View.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Payment_Delete.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Payment_New.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Payment_Update.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Payment_View.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Project_Delete.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Project_New.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Project_Update.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Project_View.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Purchase_Delete.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Purchase_New.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Purchase_Update.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Purchase_View.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Purchase.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Report.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.About.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Dashboard.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Project.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Budget.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Material.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Form7.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Payment.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.Properties.Resources.resources
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.csproj.GenerateResource.Cache
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.csproj.CoreCompileInputs.cache
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.exe
+C:\Users\hmzat\Desktop\CMS\CMS\CMS\obj\Debug\CMS.pdb
